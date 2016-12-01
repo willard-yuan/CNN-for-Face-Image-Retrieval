@@ -13,9 +13,10 @@ I tested the performance on a small face dataset. The search results are as foll
 
 ### Want to use a C++ version?
 
-You may also be interested in a C++ version or a QT version. Luckily, there is an open face recogniton project named as [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine). I have made it work in Xcode and built a QT project based on the SeetaFaceEngine. I'm very happy that the QT project has been used by someone.
+You may also be interested in a C++ version or a QT version. SeetaFaceLib is a face image retrieval system based on [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine). I'm very happy that the QT project has been used by someone. The GUI of the QT project is designed as follows:
 
-The GUI of the QT project is designed as follows(It's still under optimization):
+<p align="center"><img src="http://i300.photobucket.com/albums/nn17/willard-yuan/demo_zpsvuygqatm.png" alt="CocsoFace"/></p>
 
-![](http://i300.photobucket.com/albums/nn17/willard-yuan/qt_face_zpsrpgr7x1n.png)
+#### Demo
 
+I have made a video demo. If you inerested in this project and want to know the performace of face image retrieval, you can access to the video: [Video Demo](https://yongyuan.name/project/)
