@@ -6,16 +6,16 @@ To run the demo sucessfully, you must download the model of `vgg-face.mat` first
 
 I tested the performance on a small face dataset. The search results are as follows:
 
-![](http://i300.photobucket.com/albums/nn17/willard-yuan/d3_zps6lczepnz.png)
-![](http://i300.photobucket.com/albums/nn17/willard-yuan/d2_zpskkieeapo.png)
-![](http://i300.photobucket.com/albums/nn17/willard-yuan/d1_zpsf6b8c2n8.png)
-![](http://i300.photobucket.com/albums/nn17/willard-yuan/d4_zpsuc08gfl3.png)
+![](http://ose5hybez.bkt.clouddn.com/github/d3_zps6lczepnz.PNG)
+![](http://ose5hybez.bkt.clouddn.com/github/d2_zpskkieeapo.PNG)
+![](http://ose5hybez.bkt.clouddn.com/github/d1_zpsf6b8c2n8.PNG)
+![](http://ose5hybez.bkt.clouddn.com/github/d4_zpsuc08gfl3.PNG)
 
 ### Want to use a C++ version?
 
 You may also be interested in a C++ version or a QT version. SeetaFaceLib is a face image retrieval system based on [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine). I'm very happy that the QT project has been used by someone. The GUI of the QT project is designed as follows:
 
-<p align="center"><img src="http://i300.photobucket.com/albums/nn17/willard-yuan/demo_zpsvuygqatm.png" alt="CocsoFace"/></p>
+<p align="center"><img src="http://ose5hybez.bkt.clouddn.com/github/faceRetrieval.jpg" alt="CocsoFace"/></p>
 
 #### Demo
 
